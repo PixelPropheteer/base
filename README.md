@@ -1,2 +1,2 @@
 # base
-Base Repo
+This is PixelPropheteers base repository!
